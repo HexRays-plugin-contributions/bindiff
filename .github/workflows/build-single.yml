@@ -195,7 +195,7 @@ jobs:
         with:
           repository: google/binexport
           path: binexport
-          ref: main
+          ref: 644786690fcb6bcf6d42a76e7d8b65056176054d
 
       - name: Patch BinExport FindIdaSdk for open-sourced SDK (9.4+) lib dirs
         shell: bash
